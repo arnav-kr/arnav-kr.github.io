@@ -1,45 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta name="google-site-verification" content="JZkQhSsdAwJ1WYUp-7mW-8s_8FKzaYYxXBuOvmILEvE" />
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <title>Page Title</title>
+        <meta name="google-site-verification" content="JZkQhSsdAwJ1WYUp-7mW-8s_8FKzaYYxXBuOvmILEvE"/>
+        <title>Arnav Kumar</title>
     </head>
     <body>
-        
     </body>
-    <script>
-        
-var cod=`print("hi")`
-
-compilePy(cod,null,document.body)
-
-function format(text){
-   var formatedCode = text.replace(/(([^'"])(#)|(^#))((.*)$)/gm, "")
-   return formatedCode;
-}
-function compilePy(code,input,id){
- 
- 
-$.ajax({
-    url: "https://code.sololearn.com/RunCode/",
-    data: {
-        code:format(code),
-        language: "py",
-        input: input
-    },
-    type: "POST",
-    dataType: "json",
-    success: function(n) {
-        var i, r, u;
-(n.output = n.output.replace(/</g, "&lt;").replace(/>/g, "&gt;"),
-        u = n.output != "" ? n.output : "No output.",
-        document.getElementById(id).innerHTML=u,
-        console.log(u)
-        );
-    }
-})
-
-}
-    </script>
 </html>
