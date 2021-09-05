@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://arnav-kr.github.io/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2021-09-05</lastmod>
+    <image:image>
+      <image:loc>https://arnav-kr.github.io/assets/images/arnav.png</image:loc>
+      <image:caption>A Programmer and Tech lover. love to build awesome projects.</image:caption>
+      <image:title>Arnav Kumar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://arnav-kr.github.io/primetime</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2021-09-05</lastmod>
+    <image:image>
+      <image:loc>https://arnav-kr.github.io/primetime/assets/icon.png</image:loc>
+      <image:caption>A game based on your knowledge about prime numbers.</image:caption>
+      <image:title>Its Prime Time!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://arnav-kr.github.io/shikijs</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2021-09-05</lastmod>
+    <image:image>
+      <image:loc>https://arnav-kr.github.io/shikijs/shikijs.png</image:loc>
+      <image:caption>A JavaScript Library for Syntax Highlighting with Awesome themes.</image:caption>
+      <image:title>Shiki Highlighter JS</image:title>
+    </image:image>
+  </url>
+</urlset>
