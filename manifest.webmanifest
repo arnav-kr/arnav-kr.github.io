@@ -1,0 +1,33 @@
+{
+  "theme_color": "#252526",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "orientation": "portrait",
+  "name": "Arnav Kumar",
+  "short_name": "Arnav",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "blog",
+    "profile",
+    "tutorials",
+    "web"
+  ],
+  "description": "Arnav Kumar. A Full Stack Web Developer, A UI/UX Developer, Programmer and a Tech lover. GitHub: arnav-kr | Twitter: arnavkr_ | Linkedin: arnav-kr | Dribbble: arnav-kr",
+  "icons": [
+    {
+      "src": "./assets/images/arnav.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/images/arnav.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
