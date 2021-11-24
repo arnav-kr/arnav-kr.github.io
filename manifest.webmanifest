@@ -18,13 +18,13 @@
   "description": "Arnav Kumar. A Full Stack Web Developer, A UI/UX Developer, Programmer and a Tech lover. GitHub: arnav-kr | Twitter: arnavkr_ | Linkedin: arnav-kr | Dribbble: arnav-kr",
   "icons": [
     {
-      "src": "./assets/images/arnav.png",
+      "src": "https://avatars.githubusercontent.com/u/72879799?v=4",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./assets/images/arnav.png",
+      "src": "https://avatars.githubusercontent.com/u/72879799?v=4",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
